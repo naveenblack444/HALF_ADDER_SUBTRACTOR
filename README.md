@@ -89,5 +89,8 @@ HALF SUTRACTOR:
 ![DE E-3 subtractor](https://github.com/04Varsha/HALF_ADDER_SUBTRACTOR/assets/149035374/5bd0588f-6b33-4352-bfb0-2e33f3f77f13)
 
 
+
+
 **Result:**
+
 The code is excecuted successfully.
